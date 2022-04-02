@@ -110,12 +110,12 @@ header .img-logo {
 }
 
 .rightArrow {
-  max-width: 30px;
+  max-width: 20px;
   cursor: pointer;
 }
 
 .leftArrow {
-  max-width: 30px;
+  max-width: 20px;
   cursor: pointer;
 }
 
@@ -123,6 +123,22 @@ header .img-logo {
 .buttons button.selected {
   color: black;
   background: #7e7e7e;
+}
+
+/* Loading*/
+.loading {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loading span {
+  background-color: red;
+  color: #fff;
+  padding: 20px;
 }
 
 /* Responsive Design */
