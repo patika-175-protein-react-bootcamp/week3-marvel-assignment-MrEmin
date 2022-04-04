@@ -13,4 +13,11 @@ https://developer.marvel.com/ API ını kullanarak geçen hafta ki çalışmanı
 
 ++ CSS, HTML, JS ile devam edeceğiz. Projenizde ekstra CSS sablonları v.s kullanmayınız.
 
-
+<br>
+<center>
+<img src="images/marvel.JPG" alt="header">
+<hr>
+<img src="images/marvel1.JPG" alt="body">
+<hr>
+<img src="images/marvel2.JPG" alt="footer">
+</center>
